@@ -2,7 +2,7 @@
   "name": "autolinker",
   "repo": "virtru-components/autolinker",
   "description": "Turns text with links into html links",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {},
   "development": {},
