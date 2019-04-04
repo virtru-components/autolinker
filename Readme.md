@@ -1,5 +1,10 @@
-###Cloned from <a href="https://github.com/gregjacobs/Autolinker.js">https://github.com/gregjacobs/Autolinker.js</a>
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+# DEPRECATED: autolinker
+
+## *This library has been deprecated*
+
+Please use the main repository: [autolinker](https://github.com/gregjacobs/Autolinker.js).
 
 # autolinker
 
